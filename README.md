@@ -7,7 +7,7 @@ I build full-stack systems integrating hardware, backend services, and automatio
 ## Technologies
 
 - PHP
-- JavaScript
+- JavaScript / Basic React
 - MySQL
 - Python
 - Arduino
