@@ -1,6 +1,8 @@
 # Ronald M. Soriano
 
-Junior Web Developer
+Aspiring Software Engineer
+
+Currently looking for an entry to junior level developer roles.
 
 I build full-stack systems integrating hardware, backend services, and automation.
 
