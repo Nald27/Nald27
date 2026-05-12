@@ -8,12 +8,12 @@ I build full-stack systems integrating hardware, backend services, and automatio
 
 ## Technologies
 
-- PHP
-- JavaScript / Basic React
-- MySQL
-- Python
-- Arduino
-- FFmpeg
+Programming Languages: PHP, JavaScript (ES6+), Python, C++, SQL
+Web Development: HTML5, CSS3, Tailwind CSS, Bootstrap, WordPress / Elementor, React/Express
+Databases & APIs: MySQL, REST API Development
+Tools & Platforms: Git, GitHub, VS Code, Trello, Jira, Microsoft 365, Postman, Zoho 
+Hardware & IoT: Arduino, ESP8266
+Other Tools: FFmpeg, Tesseract OCR, Google AI Studio
 
 ## Featured Project
 
